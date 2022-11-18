@@ -1,5 +1,5 @@
 # Tibia - AutoHeal
-This is a tibiabot in c++ for any version* of the game, the Bot is based on memory injection, requires knowledge about how to get player mana and life memory addresses.
+This is a tibiabot in c++ for any version* of the game, the Bot is based on memory injection, requires knowledge on how to get player mana and life memory addresses.
 *Tip you can have it through CheatEngine*.
 
 
